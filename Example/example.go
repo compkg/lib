@@ -1,4 +1,4 @@
-package exampleCode
+package example
 
 import "math/rand"
 
