@@ -2,7 +2,7 @@ package exampleCode
 
 import "math/rand"
 
-// ReadNumber create random number
+// ReadNumber create random number ffff
 func ReadNumber() int {
 	// random number range
 	rnr := 10
