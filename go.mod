@@ -1,3 +1,3 @@
-module github.com/compkg/lib
+module github.com/compkg/library
 
 go 1.18
